@@ -1,11 +1,11 @@
 name: paper-maker
-description: Automagically build LaTex manuscripts and push the latest PDF back to GitHub
+# description: Automagically build LaTex manuscripts and push the latest PDF back to GitHub
 
 on: push
 
-branding:
-  icon: 'zap'
-  color: 'blue'
+# branding:
+#   icon: 'zap'
+#   color: 'blue'
 
 jobs:
   build:
