@@ -1,2 +1,4 @@
-- name: paper-maker
-  uses: andycasey/paper-maker@0.10
+name: paper-maker
+  - uses: andycasey/paper-maker@0.10
+
+on: push
